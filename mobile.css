@@ -50,7 +50,9 @@
         border-radius: 50px;
         background-color: #042a16;
         cursor: pointer;
-        color: white;   
+        color: white;
+       justify-content: center;
+       align-items: center;
       }
       
       button:active {
